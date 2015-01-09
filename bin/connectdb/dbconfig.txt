@@ -1,0 +1,6 @@
+localhost
+jdbc:mysql://localhost:3306/
+javaapplication
+com.mysql.jdbc.Driver
+root
+success871
